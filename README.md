@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -90,11 +90,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jrTilak/jrTilak/output/snake.svg" alt="Snake animation" />
 
 ###

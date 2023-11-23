@@ -5,7 +5,7 @@ Tilak Thapa (jrTilak)</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrtilak&label=Profile%20views&color=0e75b6&style=flat" alt="jrtilak" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img style="object-fit: cover; object-position: center;" align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 👨‍🎓 B.E. Computer Science student with a focus on web development.

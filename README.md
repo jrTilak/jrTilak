@@ -10,7 +10,7 @@ Tilak Thapa (jrTilak)</a></h1>
 
 - 👨‍🎓 B.E. Computer Science student with a focus on web development.
 - 💻 Proficient in `React.js`, `MERN Stack`, and `Next.js`.
-- ⏳ Has more than `1.5 years` of experience in the field.
+- ⏳ Has more than `1 years` of experience in the field.
 - 🔍 Seeking job opportunities.
 - 📚 Spent the past year expanding knowledge and skills in web development.
 - 🎯 Focused on mastering `Next.js` and have completed several projects.
@@ -19,6 +19,11 @@ Tilak Thapa (jrTilak)</a></h1>
 - 🏆 Actively participating in hackathons and web development competitions.
 - 📄 Know about my experiences <a href="https://thapatilak.com.np/cv" target="blank">Resume</a>
 <br/>
+
+<p align="center">
+
+<img style="margin:auto;" src="https://myreadme.vercel.app/api/embed/jrTilak?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="jrTilak" />
+</p>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">

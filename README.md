@@ -8,9 +8,6 @@ Tilak Thapa (jrTilak)</a></h1>
   <img style="object-fit: cover; object-position: center;" align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 </a>
 
----
-
-
 - 👨‍🎓 B.E. Computer Science student with a focus on web development.
 - 💻 Proficient in `React.js`, `MERN Stack`, and `Next.js`.
 - ⏳ Has more than `1 years` of experience in the field.

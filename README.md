@@ -15,7 +15,6 @@ Tilak Thapa (jrTilak)</a></h1>
 - 📚 Spent the past year expanding knowledge and skills in web development.
 - 🎯 Focused on mastering `Next.js` and have completed several <a href="https://thapatilak.com.np/projects" target="blank">projects</a>.
 - 🚀 Enthusiastic about open-source contributions and solving real-world challenges.
-- 📝 Regularly shares knowledge and experiences through <a href="https://thapatilak.com.np/blogs" target="blank">blogs</a>.
 - 🏆 Actively participating in hackathons and web development competitions.
 - 📄 Know about my experiences <a href="https://thapatilak.com.np/cv" target="blank">Resume</a>
 <br/>

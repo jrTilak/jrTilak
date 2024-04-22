@@ -21,7 +21,8 @@ Tilak Thapa (jrTilak)</a></h1>
 
 <p align="center">
 
-<img style="margin:auto;" src="https://myreadme.vercel.app/api/embed/jrTilak?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="jrTilak" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrtilak)](https://github.com/jrtilak)
+
 </p>
 <h3 align="center" >Connect with me 🤝 </h3>
 

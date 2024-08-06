@@ -11,7 +11,7 @@ Tilak Thapa (jrTilak)</a></h1>
 - 👨‍🎓 B.E. Computer Science student with a focus on web development.
 - 💻 Proficient in `React.js`, `MERN Stack`, and `Next.js`.
 - ⏳ Has more than `1.6 years` of experience in the field.
-- 🔍 Seeking job opportunities.
+- 🔍 Seeking growth and connection.
 - 📚 Spent the past year expanding knowledge and skills in web development.
 - 🎯 Focused on mastering `Next.js` and have completed several <a href="https://thapatilak.com.np/projects" target="blank">projects</a>.
 - 🚀 Enthusiastic about open-source contributions and solving real-world challenges.

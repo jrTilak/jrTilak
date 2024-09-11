@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://thapatilak.com.np" target="blank">
 Tilak Thapa (jrTilak)</a></h1>
-<h3 align="center">🙋‍♂️ Greetings! I'm Tilak Thapa(jrTilak), a passionate web developer with more than 1.8 years of experience. I specialize web development in React and Next.js. I'm also a huge fan of open-source.</h3>
+<h3 align="center">🙋‍♂️ Greetings! I'm Tilak Thapa(jrTilak), a passionate web developer with more than 1.8 years of experience. I specialize full-stack web development in MERN with Next.js. I'm also a huge fan of open-source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrtilak&label=Profile%20views&color=0e75b6&style=flat" alt="jrtilak" /> </p>
 

@@ -16,5 +16,8 @@ As a firm believer in the power of continuous improvement, I resonate with the q
 
 _"Code is like humor. When you have to explain it, it's bad." — Cory House._
 
+<hr>
 
 https://www.jrtilak.dev/
+
+contact@jrtilak.dev

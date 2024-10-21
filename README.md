@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://thapatilak.com.np" target="blank">
+<h1 align="center">🙋‍♂️ Greetings! I'm <a href="https://jrtilak.dev" target="blank">
 Tilak Thapa (jrTilak)</a></h1>
-<h3 align="center">🙋‍♂️ Greetings! I'm Tilak Thapa(jrTilak), a passionate web developer with more than 1.8 years of experience. I specialize full-stack web development in MERN with Next.js. I'm also a huge fan of open-source.</h3>
+<h3 align="center">Curiosity-driven developer with 2.0+ years of expertise building robust web apps using the MERN stack and Next.js, paired with hands-on experience in Docker and cloud deployment on AWS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrtilak&label=Profile%20views&color=0e75b6&style=flat" alt="jrtilak" /> </p>
 
@@ -8,35 +8,13 @@ Tilak Thapa (jrTilak)</a></h1>
   <img style="object-fit: cover; object-position: center;" align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 </a>
 
-- 👨‍🎓 B.E. Computer Science student with a focus on web development.
-- 💻 Proficient in `React.js`, `MERN Stack`, and `Next.js`.
-- ⏳ Has more than `1.6 years` of experience in the field.
-- 🔍 Seeking growth and connection.
-- 📚 Spent the past year expanding knowledge and skills in web development.
-- 🎯 Focused on mastering `Next.js` and have completed several <a href="https://thapatilak.com.np/projects" target="blank">projects</a>.
-- 🚀 Enthusiastic about open-source contributions and solving real-world challenges.
-- 🏆 Actively participating in hackathons and web development competitions.
-- 📄 Know about my experiences <a href="https://thapatilak.com.np/cv" target="blank">Resume</a>
-<br/>
+### I'm Tilak Thapa, a web/app developer.
 
-<p align="center">
+I'm a curiosity-driven developer with over 2 years of expertise in building robust web applications using the MERN stack and Next.js. 💻 My hands-on experience extends to Docker and cloud deployment on AWS, allowing me to deliver high-quality solutions that meet diverse needs.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrtilak)](https://github.com/jrtilak)
+As a firm believer in the power of continuous improvement, I resonate with the quote: "The only way to do great work is to love what you do." — Steve Jobs. This passion drives me to participate in hackathons, share insights through blogging, and create meaningful user experiences that extend beyond just writing code. 📚
 
-</p>
-<h3 align="center" >Connect with me 🤝 </h3>
+_"Code is like humor. When you have to explain it, it's bad." — Cory House._
 
-<p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px; ">
-        <a target="_blank" href="https://www.linkedin.com/in/jrtilak/">
-		<img style="height:50px;width:50px" src="https://www.svgrepo.com/show/448234/linkedin.svg">
-	</a>
-        <a style="margin-left: 20px;"  target="_blank" href="mailto:iamjrtilak@gmail.com">
-		<img style="height:45px;width:45px" src="https://www.svgrepo.com/show/353812/google-gmail.svg">
-	</a>
-        <a style="margin-left: 20px;"  target="_blank" href="https://www.instagram.com/iamjrtilak">
-		<img style="height:45px;width:45px" src="https://www.svgrepo.com/show/452229/instagram-1.svg">
-	</a>
- </div>
-</p>
+https://www.jrtilak.dev/

@@ -1,6 +1,6 @@
 <h1 align="center">🙋‍♂️ Greetings! I'm <a href="https://jrtilak.dev" target="blank">
 Tilak Thapa (jrTilak)</a></h1>
-<h3 align="center">Curiosity-driven developer with 2.0+ years of expertise building robust web apps using the MERN stack and Next.js, paired with hands-on experience in Docker and cloud deployment on AWS.</h3>
+<h3 align="center">Curiosity-driven full-stack web/app developer, constantly pushing the boundaries of what's possible to create innovative and seamless digital solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrtilak&label=Profile%20views&color=0e75b6&style=flat" alt="jrtilak" /> </p>
 
@@ -8,16 +8,14 @@ Tilak Thapa (jrTilak)</a></h1>
   <img style="object-fit: cover; object-position: center;" align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 </a>
 
-### I'm Tilak Thapa, a web/app developer.
+### I'm Tilak Thapa, a full-stack web/app developer.
+Driven by curiosity and a relentless pursuit of growth, I specialize in building powerful, scalable web applications—going beyond the MERN stack and Next.js to craft seamless digital experiences. 💻
 
-I'm a curiosity-driven developer with over 2 years of expertise in building robust web applications using the MERN stack and Next.js. 💻 My hands-on experience extends to Docker and cloud deployment on AWS, allowing me to deliver high-quality solutions that meet diverse needs.
+With over 2.3 years of hands-on experience, I’ve built and shipped impactful digital solutions that blend clean code with thoughtful user experience. My work reflects a belief in constant iteration, continuous learning, and purposeful creation.
 
-As a firm believer in the power of continuous improvement, I resonate with the quote: "The only way to do great work is to love what you do." — Steve Jobs. This passion drives me to participate in hackathons, share insights through blogging, and create meaningful user experiences that extend beyond just writing code. 📚
-
-_"Code is like humor. When you have to explain it, it's bad." — Cory House._
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 
 <hr>
 
-https://www.jrtilak.dev/
-
+https://www.jrtilak.dev/ <br/>
 contact@jrtilak.dev

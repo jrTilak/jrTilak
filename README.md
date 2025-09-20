@@ -11,7 +11,7 @@ Tilak Thapa (jrTilak)</a></h1>
 ### I'm Tilak Thapa, a full-stack web/app developer.
 Driven by curiosity and a relentless pursuit of growth, I specialize in building powerful, scalable web applications—going beyond the MERN stack and Next.js to craft seamless digital experiences. 💻
 
-With over 2.3 years of hands-on experience, I’ve built and shipped impactful digital solutions that blend clean code with thoughtful user experience. My work reflects a belief in constant iteration, continuous learning, and purposeful creation.
+With years of hands-on experience, I’ve built and shipped impactful digital solutions that blend clean code with thoughtful user experience. My work reflects a belief in constant iteration, continuous learning, and purposeful creation.
 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
 

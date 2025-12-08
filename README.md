@@ -1,11 +1,3 @@
-<h1 align="center">🙋‍♂️ Greetings! I'm <a href="https://jrtilak.dev" target="_blank">Tilak Thapa (jrTilak)</a></h1>
-<h3 align="center">Full Stack Web Developer | MERN | Crafting Web Solutions with Years of Expertise 🔥</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrtilak&label=Profile%20views&color=0e75b6&style=flat" alt="jrtilak" /> </p>
-
-<a target="_blank" align="center">
-  <img style="object-fit: cover; object-position: center; margin-bottom: 20px;" align="right" height="300" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
-</a>
 
 ### About Me
 
